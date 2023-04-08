@@ -4,6 +4,7 @@ https://es.vitejs.dev
 
 ## Topics
 
+* Typescript
 * Datatypes
 * Objects
 * Arrays
