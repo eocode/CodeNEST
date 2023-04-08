@@ -8,3 +8,7 @@ https://es.vitejs.dev
 * Objects
 * Arrays
 * Classes
+* Interfaces
+* SOLID
+* Decorators
+* Dependency Inversión

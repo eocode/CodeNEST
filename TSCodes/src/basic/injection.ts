@@ -1,5 +1,5 @@
 import { PokeApiAdapter, PokeApiFetchAdapter, HttpAdapter } from "../api/pokeApi.adapter";
-import { Move, PokeapiResponse } from "../interfase/pokeapi-response.interfase";
+import { Move, PokeapiResponse } from "../interface/pokeapi-response.interfase";
 
 export class Pokemon {
 
