@@ -13,5 +13,14 @@ export const bulbasaur:Pokemon = {
     name: 'Bulbasaur',
 }
 
+export const charmander:Pokemon = {
+    id: 4,
+    name: 'Charmander',
+    age: 20
+}
+
 
 console.log(bulbasaur)
+export const pokemons: Pokemon[] = []
+
+pokemons.push(charmander, bulbasaur)    

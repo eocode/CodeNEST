@@ -1,9 +1,11 @@
 import './style.css'
 import {name} from './basic/types';
-import {pokemonIds, bulbasaur} from './basic/objects';
+import {pokemonIds, bulbasaur, pokemons} from './basic/objects';
 import typescriptLogo from './typescript.svg'
 import viteLogo from '/vite.svg'
 import { setupCounter } from './counter'
+import { charmander } from './basic/injection'
+import { charmander2 } from './basic/decorators2'
 
 document.querySelector<HTMLDivElement>('#app')!.innerHTML = `
   <div>
@@ -17,6 +19,9 @@ document.querySelector<HTMLDivElement>('#app')!.innerHTML = `
     <p>${name}</p>
     <p>${pokemonIds}</p>
     <p>${bulbasaur.name}</p>
+    <p>${pokemons}</p>
+    <p>${charmander.name}</p>
+    <p>${charmander2.name}</p>
     <div class="card">
       <button id="counter" type="button"></button>
     </div>
