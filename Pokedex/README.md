@@ -36,6 +36,11 @@ $ npm i -g @nestjs/cli
 $ docker-compose up -d
 ```
 
+# DB Seed
+
+Run this endpoint
+
+http://localhost:3001/api/v2/seed
 
 ## Running the app
 
