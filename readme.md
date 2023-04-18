@@ -45,6 +45,10 @@ CRUD of cars in localstorage
 * CRUD
 * Schemas
 * Models
+* Seeds
+* Pagination
+* Query Params
+* Transformations in DTOs
 
 # Courses
 
