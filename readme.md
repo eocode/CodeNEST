@@ -11,6 +11,8 @@
 
 ## TSCodes
 
+This project show diferent features of Typescript
+
 * Typescript
 * Datatypes
 * Objects
@@ -22,6 +24,8 @@
 * Dependency Inversión
 
 ## Car Dealership
+
+This project show cars with makes and models
 
 CRUD of cars in localstorage
 
@@ -38,6 +42,8 @@ CRUD of cars in localstorage
 * DRY
 
 ## Pokedex
+
+This project manage pokemon information
 
 * MongoDB
 * Static content
