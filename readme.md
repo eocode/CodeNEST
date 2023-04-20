@@ -55,6 +55,7 @@ This project manage pokemon information
 * Pagination
 * Query Params
 * Transformations in DTOs
+* Environment variables
 
 # Courses
 
